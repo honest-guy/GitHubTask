@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubTask</string>
+    <string name="enter_github_user_name">Enter GitHub User Name</string>
+    <string name="login">Login</string>
+    <string name="repositories">Repositories</string>
+    <string name="issues">Issues</string>
+</resources>
